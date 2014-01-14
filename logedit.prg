@@ -1,4 +1,4 @@
-parameter zzc,zzf,zzo,zzn,znm,zcu
+parameter zzc,zzf,zzo,zzn,znm,zcu,7thpar
 store alias() to tmpalias
 sele 0
 use f:\pro50\logedit share
